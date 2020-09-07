@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIYDDLBV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for apt_battery_proj\Design Rule Check - apt_battery_proj.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
