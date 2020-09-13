@@ -43,7 +43,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=lib\bms.SchLib
+DocumentPath=..\..\lib\bms.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -60,7 +60,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RIHOEPPR
 
 [Document2]
-DocumentPath=lib\bms.PcbLib
+DocumentPath=..\..\lib\bms.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -77,7 +77,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ANDGAWXH
 
 [Document3]
-DocumentPath=schematic\battery_cell.SchDoc
+DocumentPath=battery_cell.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -94,7 +94,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AIUMEVDD
 
 [Document4]
-DocumentPath=altium-library\Celestial Altium Library - altium_library.DbLib
+DocumentPath=..\..\altium-library\Celestial Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,7 +111,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=pcb\apt_battery_proj.PcbDoc
+DocumentPath=apt_battery_cell.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -162,7 +162,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for apt_battery_proj\Design Rule Check - apt_battery_proj.html
+DocumentPath=..\..\Project Outputs for apt_battery_proj\Design Rule Check - apt_battery_proj.html
 DItemRevisionGUID=
 
 [Configuration1]

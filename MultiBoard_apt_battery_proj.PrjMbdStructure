@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=battery_proj_MultiBoardSchematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=Battery Cell|Source=..\projects\apt_battery_cell\apt_battery_cell.PrjPCB
+Record=SubProject|SourceDocument=battery_proj_MultiBoardSchematic.MbsDoc|ProjectPath=..\projects\apt_battery_cell\apt_battery_cell.PrjPCB

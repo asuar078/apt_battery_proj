@@ -19,7 +19,7 @@ Name=Assembly.OutJob
 Description=
 TargetOutputMedium=AssemblyData
 VariantName=[No Variations]
-VariantScope=2
+VariantScope=1
 CurrentConfigurationName=Assembly
 TargetPrinter=Canon MX920 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
@@ -53,13 +53,13 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=Filter
 Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1185|FormHeight=1191|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1185|FormHeight=818|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=SortOrder
 Configuration1_Item5=
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=
+Configuration1_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print
 OutputCategory2=Documentation
@@ -181,7 +181,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Arian\Documents\apt_battery_proj\Project Outputs for apt_battery_proj\
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for apt_battery_cell
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -194,7 +194,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=C:\Users\Public\Documents\Altium\TestProjectReleas\Project Outputs for TestProjectReleas\BOM\
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for apt_battery_cell
 OutputPathMedia4=[Media Name]
 OutputPathMediaValue4=
 OutputPathOutputer4=
