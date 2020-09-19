@@ -205,7 +205,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Arian\Documents\apt_battery_proj\Project Outputs for apt_battery_proj\
+OutputFilePath3=C:\Users\Arian\Documents\apt_battery_proj\projects\apt_battery_cell\Project Outputs for apt_battery_cell\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for apt_battery_cell
 OutputPathMedia3=
@@ -235,7 +235,7 @@ OpenOutput4=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=Fabrication.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\Arian\Documents\apt_battery_proj\Project Outputs for apt_battery_proj\
+RelativeOutputPath3=C:\Users\Arian\Documents\apt_battery_proj\projects\apt_battery_cell\Project Outputs for apt_battery_cell\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
