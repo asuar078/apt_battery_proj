@@ -190,6 +190,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWCNBUKB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for apt_battery_bms\Design Rule Check - apt_battery_bms.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
